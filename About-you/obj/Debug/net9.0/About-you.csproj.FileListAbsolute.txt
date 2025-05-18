@@ -1,0 +1,14 @@
+E:\C#\repos\About-you\bin\Debug\net9.0\About-you.exe
+E:\C#\repos\About-you\bin\Debug\net9.0\About-you.deps.json
+E:\C#\repos\About-you\bin\Debug\net9.0\About-you.runtimeconfig.json
+E:\C#\repos\About-you\bin\Debug\net9.0\About-you.dll
+E:\C#\repos\About-you\bin\Debug\net9.0\About-you.pdb
+E:\C#\repos\About-you\obj\Debug\net9.0\About-you.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\repos\About-you\obj\Debug\net9.0\About-you.AssemblyInfoInputs.cache
+E:\C#\repos\About-you\obj\Debug\net9.0\About-you.AssemblyInfo.cs
+E:\C#\repos\About-you\obj\Debug\net9.0\About-you.csproj.CoreCompileInputs.cache
+E:\C#\repos\About-you\obj\Debug\net9.0\About-you.dll
+E:\C#\repos\About-you\obj\Debug\net9.0\refint\About-you.dll
+E:\C#\repos\About-you\obj\Debug\net9.0\About-you.pdb
+E:\C#\repos\About-you\obj\Debug\net9.0\About-you.genruntimeconfig.cache
+E:\C#\repos\About-you\obj\Debug\net9.0\ref\About-you.dll
